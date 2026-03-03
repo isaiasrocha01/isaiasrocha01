@@ -8,7 +8,7 @@
   <a href="https://isaiasrocha01.github.io/projeto-main/index.html" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/isaias-santos-rocha-6b8a98116/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
